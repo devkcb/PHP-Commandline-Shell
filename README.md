@@ -18,4 +18,6 @@ Versiyon 1.0
 
 PHP Tabanlý þimdilik, exec, shell_exec, system ve passthru fonksiyonlarý kullanýlmakta.
 
-# Ýleride düþünülen özellikler fazla fonksiyonel komutlar, Engelli komutlara karþýn bypass yöntemleri(PHP.ini, Cloudlinux, CageFS, Litespeed server kaynaklý firewall)
+# Ýleride düþünülen özellikler 
+
+fazla fonksiyonel komutlar, Engelli komutlara karþýn bypass yöntemleri(PHP.ini, Cloudlinux, CageFS, Litespeed server kaynaklý firewall)
